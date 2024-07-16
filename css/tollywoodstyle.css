@@ -1,0 +1,62 @@
+#link{
+    background-color: lightsalmon;
+}
+
+#tollywoodheading{
+    text-align: center;
+}
+
+#DSPpic{
+    width: 300px;
+}
+
+#DSPdescription{
+    font-size: 1.1rem ;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}
+
+#Thamanpic{
+    width: 300px;
+    height: 300px;
+}
+
+#Thamandescription{
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#GVpic{
+    width: 300px;
+}
+
+#GVdescription{
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}
+
+#Keeravanipic{
+    width: 300px;
+    height: 300px;
+}
+
+#Keeravanidescription{
+    font-size: 1.1rem;
+    font-family: claibri;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#KaalaBhairavapic{
+    width: 300px;
+    height: 300px;
+}
+
+#KaalaBhairavadescrption{
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}

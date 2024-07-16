@@ -1,0 +1,49 @@
+#bollywoodheading{
+    text-align: center;
+}
+
+#link{
+    background-color: lightsalmon;
+}
+
+#amittrivedhipic{
+    width: 300px;
+    height: 300px;
+}
+
+#amitdescription{
+    font-size: 1.2rem;
+    background-color: lightsteelblue;
+}
+
+#anumalikpic{
+    width: 300px;
+    height: 300px;
+}
+
+#anumalikdescription{
+    font-size: 1.2rem;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#rajeshroshanpic{
+    width: 300px;
+    height: 300px;
+}
+
+#rajeshdescription{
+    font-size: 1.2rem;
+    background-color: lightsteelblue;
+}
+
+#roopkumarpic{
+    width: 300px;
+    height: 300px;
+}
+
+#roopkumardescription{
+    font-size: 1.2rem;
+    background-color: lightcyan;
+    color: brown;
+}
